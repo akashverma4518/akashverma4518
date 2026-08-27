@@ -1,127 +1,14 @@
-# Hi there, I'm Akash Verma 👋
-
-### 💻 BTech CSE Student | Java & DSA Learner | Full-Stack Developer | AI Enthusiast
-
-I'm a **2nd Year BTech Computer Science Engineering student** passionate about building practical projects and improving my problem-solving skills.
-
-🚀 Currently working on **Full-Stack Web Applications & AI-powered projects**
-🌱 Learning **Java, DSA, Python, React.js, FastAPI & SQL**
-💡 Interested in **Software Development, Backend Development, AI & Cloud Technologies**
-🎯 Preparing for **technical placements and coding interviews**
-🤝 Open to collaborating on **Java, Web Development, AI & Open Source projects**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### ⚙️ Backend & Database
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🚨 RESQ-AI
-
-AI-powered emergency response platform designed to help users report and manage emergency situations efficiently.
-
-**Tech:** TypeScript • React • AI
-
-### 🎓 Online Learning Platform
-
-A web-based learning platform designed to provide students with an interactive online learning experience.
-
-**Tech:** TypeScript • React • Web Development
-
-### 🚆 Railway Ticket Booking
-
-A railway ticket booking application focused on simplifying the process of searching and booking train tickets.
-
-**Tech:** JavaScript • Web Development
-
----
-
-## 📚 Currently Learning
-
-```text
-Java & Object-Oriented Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Python & Backend Development
-        ↓
-React.js & Full-Stack Development
-        ↓
-FastAPI & SQL
-        ↓
-Cloud & Advanced Backend Technologies
-```
-
----
-
-## 🎯 My Goals
-
-* 📌 Strengthen **Data Structures & Algorithms**
-* 💻 Build more **real-world full-stack projects**
-* 🤖 Explore **AI-powered applications**
-* ☁️ Learn **Cloud & Backend Technologies**
-* 🏆 Participate in **Hackathons & Open Source**
-* 💼 Prepare for **Software Development placements**
-
----
-
-## 📊 GitHub Stats
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashverma4518\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashverma4518\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akashverma4518\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating, and building useful projects.
-
-📧 **Email:** [akashverma451807@gmail.com](mailto:akashverma451807@gmail.com)
-
-💻 **GitHub:** [@akashverma4518](https://github.com/akashverma4518)
-
----
-
-### ⚡ Fun Fact
-
-> I enjoy turning ideas into projects and solving coding problems one step at a time. 🚀
-
-⭐ **If you find my projects interesting, consider giving them a star!**
-
+## Hi there 👋
+# 💫 About Me
+Hi 👋 I'm **Akash Verma**, a **2nd Year B.Tech CSE Student** from India.
+💻 I am passionate about programming and enjoy learning new technologies by building small projects.
+🌱 I’m currently learning **Java, Python, Data Structures & Algorithms (DSA), HTML, CSS and JavaScript.**
+🔭 I’m working on improving my coding skills and building beginner-friendly projects to strengthen my fundamentals.
+👯 I’m looking to collaborate on **beginner-friendly Open Source, Java and Web Development projects.**
+🤝 I’m looking for guidance in **DSA, Backend Development and Full Stack Web Development.**
+💬 Ask me about **Java basics, Python basics, HTML, CSS, JavaScript and Git/GitHub.**
+🎯 My goal is to become a skilled **Software Developer** by continuously learning and building real-world projects.
+⚡ Fun fact: I believe every expert was once a beginner, so I enjoy learning something new every day.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-verma-227236392/) 
