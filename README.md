@@ -1,24 +1,14 @@
 ## Hi there 👋
 # 💫 About Me
-
 Hi 👋 I'm **Akash Verma**, a **2nd Year B.Tech CSE Student** from India.
-
 💻 I am passionate about programming and enjoy learning new technologies by building small projects.
-
 🌱 I’m currently learning **Java, Python, Data Structures & Algorithms (DSA), HTML, CSS and JavaScript.**
-
 🔭 I’m working on improving my coding skills and building beginner-friendly projects to strengthen my fundamentals.
-
 👯 I’m looking to collaborate on **beginner-friendly Open Source, Java and Web Development projects.**
-
 🤝 I’m looking for guidance in **DSA, Backend Development and Full Stack Web Development.**
-
 💬 Ask me about **Java basics, Python basics, HTML, CSS, JavaScript and Git/GitHub.**
-
 🎯 My goal is to become a skilled **Software Developer** by continuously learning and building real-world projects.
-
 ⚡ Fun fact: I believe every expert was once a beginner, so I enjoy learning something new every day.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-verma-227236392/) 
